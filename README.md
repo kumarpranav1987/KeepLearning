@@ -15,6 +15,8 @@ https://interviewing.io/
 https://www.interviewkickstart.com/
 ## Compensation  
 https://www.levels.fyi/
+https://www.teamblind.com/
+Leet Code discussions
 ## Reference 
 Algo Books - https://github.com/RbkGh/Free-Algorithm-Books/tree/master/book
 https://github.com/yanhan/reading-list
