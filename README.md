@@ -4,6 +4,8 @@ https://www.manning.com/books/grokking-algorithms
 https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850 
 
 ## System Deign 
+https://www.youtube.com/watch?v=XxB1BCuvu9A  
+
 https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=4549609873473536  
 https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/  
 https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide?ref=c89a35  
