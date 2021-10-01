@@ -1,4 +1,8 @@
 # Things i want to read
+
+## Very Good Collection  
+https://dev.to/olanetsoft/12-github-repositories-to-help-you-ace-your-job-interview-2a08  
+
 ## DS Algo Books
 https://www.manning.com/books/grokking-algorithms 
 https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850 
